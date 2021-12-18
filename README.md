@@ -22,11 +22,11 @@ pip install selenium
 [Você pode encontrar instruções de instalação no repositório oficial.](https://github.com/mozilla/geckodriver/releases)
 
 
-## Versioning
+## Versão
  
-1.0.0.0
+1.0
+
  
- 
-## Authors
+## Autor
  
 * **Robson leandro de lima** : [@robzenhu](https://github.com/robzenhu)
